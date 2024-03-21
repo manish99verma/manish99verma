@@ -6,7 +6,7 @@ I'm a passionate Android developer with a love for creating innovative mobile ap
 - 🚀 I'm currently working as a freelancer.
 - 🌱 I'm currently learning React-Native.
 - 💬 Ask me about anything related to Android development.
-- 📫 How to reach me: manish6203993@gmail.com, [instagram.com/mkv8340](https://www.instagram.com/mkv8340/)
+- 📫 How to reach me: [manish6203993@gmail.com](mailto:manish6203993@gmail.com), instagram.com/mkv8340
 - 😄 Pronouns: he/him
 
 ## Skills
