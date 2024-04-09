@@ -30,6 +30,4 @@ This is a Kotlin-based chat application for Android, leveraging Firebase as the 
  
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish99verma&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish99verma&layout=compact)
