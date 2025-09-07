@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Manish Kumar Verma
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manish99verma&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/manish99verma?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/manish99verma?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## 🚀 About Me  
 Frontend Developer (React Specialist) with expertise in building scalable, responsive, and SEO-optimized web apps.  
