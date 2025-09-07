@@ -1,33 +1,83 @@
+# 👋 Hi, I'm Manish Kumar Verma
 
-# Hello, I'm Manish Kumar Verma! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=manish99verma&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/manish99verma?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/manish99verma?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-I'm a passionate Android developer with a love for creating innovative mobile applications.
+## 🚀 About Me  
+Frontend Developer (React Specialist) with expertise in building scalable, responsive, and SEO-optimized web apps.  
+Skilled in **React (Hooks, Context API, Redux)**, **Tailwind CSS**, and **Astro**.  
+Proven success in scaling a platform to **500K+ monthly users**, optimizing performance, and achieving **top Google rankings**.  
+Solid foundation in **Node.js/Express**, deployment, and version control.
 
-- 🚀 I'm currently working as a freelancer.
-- 🌱 I'm currently learning React-Native.
-- 💬 Ask me about anything related to Android development.
-- 📫 How to reach me: [manish6203993@gmail.com](mailto:manish6203993@gmail.com), [Instagram](https://www.instagram.com/mkv8340/)
-- 😄 Pronouns: he/him
+📍 **Nalanda, Bihar** · 📧 **[manish6203993@gmail.com](mailto:manish6203993@gmail.com)** · 🌐 **[Portfolio](https://manish-verma.vercel.app/)** · 🔗 **[LinkedIn](https://www.linkedin.com/in/manish-kumar-verma-2278622a6/)** · 🧑‍💻 **[GitHub](https://github.com/manish99verma)**
 
-## Skills
+---
 
-- **Languages:** Java, Kotlin, Javascript
-- **Frameworks/Libraries:** Android SDK, React, Firebase
-- **Tools:** Android Studio, Git, Gradle, VS Code
+## 🏷️ Tech Stack
 
-## Projects
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-0C1222?logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-0A66C2?logo=google&logoColor=white)
 
-- [Wander Stay (Hoel Booking app)](https://github.com/manish99verma/HotelBookingApp): This app seamlessly integrates with a RESTful API, enabling users to browse, search, and book hotel accommodations effortlessly. With an intuitive user interface, it offers features like real-time availability, detailed room descriptions, and secure payment options. Utilizing Kotlin's concise syntax and robust features, the app delivers a smooth user experience while interacting with the API endpoints.
-- [Secure Chat app](https://github.com/manish99verma/SecureChat):   
-This is a Kotlin-based chat application for Android, leveraging Firebase as the backend infrastructure. This dynamic app enables users to engage in real-time communication, featuring instant messaging, multimedia sharing, and user authentication. Utilizing Firebase's powerful capabilities, such as Firestore for database management and Firebase Authentication for secure user authentication, the app ensures seamless connectivity and reliability. With a clean and intuitive user interface, users can effortlessly navigate conversations, send messages, and stay connected with their peers. Through this project, I've demonstrated proficiency in Kotlin development, Firebase integration, and creating engaging communication platforms tailored for Android devices.
-- [Notes App](https://github.com/manish99verma/Notes_App_MVP): It's a Java-based notes application for Android with robust cloud synchronization capabilities, integrated Google login, and Firebase as the backend infrastructure. This feature-rich app allows users to create, edit, and organize their notes seamlessly across multiple devices, ensuring data consistency through cloud synchronization. Leveraging Firebase Authentication, users can securely log in with their Google accounts, enhancing convenience and security. Additionally, Firestore powers the backend, facilitating efficient data storage and synchronization in real-time. Through this project, I've demonstrated expertise in Java development, Firebase integration, and crafting user-friendly productivity applications tailored for Android users.
+---
 
-## Connect with Me
+## 📊 GitHub Stats & Activity
 
-- Instagram: [instagram.com/mkv8340](https://www.instagram.com/mkv8340/)
-- Twitter: [twitter.com/mkv8340](https://twitter.com/mkv8340)
-- Linkedin: [manish-kumar-verma-2278622a6](www.linkedin.com/in/manish-kumar-verma-2278622a6)
- 
-## GitHub Stats
+<a href="https://github.com/manish99verma#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish99verma&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish99verma&layout=compact)
+<a href="https://github.com/manish99verma">
+  <img src="https://streak-stats.demolab.com?user=manish99verma&hide_border=true" alt="GitHub Streak" />
+</a>
+
+---
+
+## 💼 Experience  
+
+### 🚀 [Shayariyana.com](https://shayariyana.com/) — Developer & SEO Expert  
+**June 2024 – June 2025**  
+- Built and scaled a high-traffic content platform using **React, Astro, TypeScript, Tailwind CSS**.  
+- Reached **2M+ unique users** before acquisition for **$1500**.  
+- Optimized performance for **20K+ daily active users**.  
+- Improved SEO workflows to sustain engagement.  
+
+---
+
+## 📌 Projects  
+
+- **[AI-Powered Quiz from PDFs](https://ai-test-beige.vercel.app/)** (React, Gemini API, Tailwind CSS) — Interactive MCQs from PDFs with instant feedback.  
+- **[Modern Pomodoro Timer](https://pomodoro-timer-qc6b.vercel.app/)** (React, Vite, Redux Toolkit) — Customizable timer with stats and themes.  
+- **[Blox - CSS Component Library](https://manish99verma.github.io/blox/)** (Hackathon Winner 🎉) — Lightweight, responsive UI components.  
+- **[QR Code Generator](https://qr-code-scanner-coral.vercel.app/)** — Generate and download high-res QR codes.  
+
+---
+
+## 🎓 Education & Training
+
+- **PW Skills — Fullstack Web Development Course (2025)**  
+- **Patliputra University — B.A. History (2020–23)**  
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-verma-2278622a6/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://manish-verma.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish6203993@gmail.com)
+
+---
+
+> ⭐️ If you like my work, consider giving a star to the repos!
